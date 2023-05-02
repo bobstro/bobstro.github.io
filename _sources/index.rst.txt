@@ -1,0 +1,41 @@
+.. The Cancer Pages documentation master file, created by
+   sphinx-quickstart on Tue May  2 09:20:22 2023.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+==========================
+Welcome to My Cancer Pages
+==========================
+
+These pages are a collection of thoughts on dealing with Pacreatic Cancer. I’ve assembled these in the hope that they will save other suffering with similar issues some time and frustration in getting through the process.
+
+General thoughts
+================
+
+Pancreatic cancer is unlike other cancers in that you probably won't be aware of it until you're far along. There is not usually any sort of early detection or treatment. As I understand it, the location of the cancer makes early detection nearly impossible. It grows quietly over years. One day you're healthy, and the next you've got an advanced diagnosis with few options. 
+
+.. important:: I am not a doctor. These are just my notes and observations as a patient.
+
+Implications
+------------
+
+A diagnosis means a switch from being OK to sick with little time to adapt or adjust. Physical changes are almost immediate. The switch flips, your career and plans are derailed, and everything changes.
+
+- In my case, this meant a change in my ability to transfer thoughts into words on a computer. While I'd routinely crank out hundreds of words in a sitting a few months ago, it's a struggle getting words onto the screen today. I'm sure the side effects of drugs and chemotherapy are only compounding this.
+- Plans change. The joyous future you'd envisioned is derailed, with little chance of normalcy. As I understand it, there will be no "return to normal" of any duration. Everything is moving towards the end.
+- A mental reset is difficult. Some people can shift their focus to accomplishing something meaningful. I find it hard to get moving each day.
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Deep thoughts:
+   
+   Comfort and Tips <Comfort_and_Tips.rst>
+   Hospital Stays <Hospital_Stays.rst>
+   Keeping in Touch <Keeping_in_Touch.rst>
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`

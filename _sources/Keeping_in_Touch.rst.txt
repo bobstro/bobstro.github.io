@@ -1,0 +1,38 @@
+Keeping in Touch
+================
+Keeping in touch is always a challenge, particularly if your friends and family are geographically dispersed. Fortunately, there are a few things you can do to reduce the sense of isolation.
+
+Real time photo gallery
+-----------------------
+Digital picture frames are nothing new. These basically show a selection of photos on a digital display. While basic frames are limiting, there are some great new options for transforming your smartphone or tablet into an online version that can provide you with a real-time "digital fridge magnet" display of constantly refreshed images.
+My favorite for this is Google Photos. Not that this couldn't be done with Apple's offerings, but I find Google is supported by a wealth of other offerings and are much easier to share across platforms.
+Here's what I've done:
+
+1. Upload pictures to be shared to photos.google.com.
+2. Created a *shared* album for the curated pictures.
+3. Shared the shared album with friends and family, allowing them to add, delete, and otherwise manage selections from their own Google photos collection.
+
+Once the shared album is created, there are a number of tools to create the automatic rotating display.
+
+- On Android, the *Fotoo* app allows an album to be selected as the source for a stream of photos to be automatically selected and displayed on your device. This can be on-demand, or set up as an Android screen saver whenever the device is charging. An old phone or tablet could be mounted to provide a permanently rotating display.
+- On Roku, the PhotoView app allows an album to be selected as the source for a stream of photos to be automatically selected and displayed on your TV whenever the screen is idle.
+
+The key to all of this is to make it as easy to use for others as possible. Provided they have a Google account, contributors simply:
+
+1. Take pictures on their phone normally.
+2. Periodically open the Google Photos app.
+3. Select one or more images and press the '+' button to add the images to the shared gallery.
+
+This way, I can ask friends and family to just add a periodic update photo without having to text, email, or otherwise bother doing much else.
+
+Video meetings
+--------------
+There are a number of video options available today, but here again, I'm recommending a Google product -- Google Meet -- for ease of interoperability and features.
+While most let multiple people chat, Meet lets me start up a meeting, invite others, and let them drop in and out without having to allow them in each time. This means my sons in California can "drop in" for coffee at 6AM their time and chat with us if we're online. 
+
+1. Schedule a Meet with Google Calendar (not 100% necessary but convenient). 
+2. Invite others using this link (important).
+
+When other join in *using this link* they will be granted access without having to be accepted each time. This reduces the odds of missing their join request.
+
+You can also create a Meet and invite users directly from there and they'll also be able to join without your intervention, *but only for that specific meeting*. This is why reusing the shared link is important.
